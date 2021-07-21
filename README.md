@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @josejaviersanahuja and this is my family <img src="https://firebasestorage.googleapis.com/v0/b/twitter-clone-d82aa.appspot.com/o/images%2FIMG_20200619_213014.jpg?alt=media&token=c3bbb05a-f5c5-4b50-bdc2-cf7aa3580c50" alt="foto-familia" height=150 width=100/>
+- 👋 Hi, I’m @josejaviersanahuja and this is my family <img src="https://firebasestorage.googleapis.com/v0/b/twitter-clone-d82aa.appspot.com/o/images%2FIMG_20200619_213014.jpg?alt=media&token=c3bbb05a-f5c5-4b50-bdc2-cf7aa3580c50" alt="foto-familia" height=130 width=100/>
 - 👀 I’m interested in ... filosophy, politics, programming
 - 🌱 I’m currently learning ... Front-end in general
 - 💞️ I’m looking to collaborate on ... anything that can improve my CV experience
