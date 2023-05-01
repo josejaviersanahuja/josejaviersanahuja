@@ -1,13 +1,8 @@
 
-<header style="display:flex; align-items:center;">
+
    <h1> 
-     <picture> 
-       <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/82359964?v=4"> 
-       <img alt="Jose_Javier_Sanahuja" src="https://avatars.githubusercontent.com/u/82359964?v=4" width="120px" height="auto"> 
-     </picture> 
-      <span>José Javier Sanahuja - Full Stack Web Developer React/Node</span>
+      José Javier Sanahuja - Full Stack Web Developer React/Node
    </h1> 
-</header>
 
 ## Professional objective
 
