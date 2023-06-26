@@ -13,7 +13,7 @@ I have a high sense of commitment, responsibility, belonging and autonomy. I hav
  ## Knowledge 
   
  * Typescript / Javascript
- * Nodejs / Express
+ * Nodejs / Express / Nestjs
  * React / Nextjs / React-Native
  * SQL / Postgres / Mysql
  * NoSQL / Firestore / Mongodb / MongoQL
